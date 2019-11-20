@@ -1,5 +1,4 @@
-[
- {
+[ {
    "OrderNo": 251145785,
    "OrderAlias": 1254,
    "SellerNo": 34251,
@@ -17,46 +16,7 @@
          "Description": "Jumbo Trampoline by Tedesco Products",
          "Cost": 399,
          "EstShipDate": "7/22/2019"
-      },
-      {
-         "ItemImage": "",
-         "LineNo": 2,
-         "Qty": 3,
-         "SellerSku": 23453245,
-         "FulfillerSku": 222222222,
-         "GTIN": 222222,
-         "Description": "Coca cola",
-         "Cost": 42,
-         "EstShipDate": "7/23/2019"
       }]
- },
- {
-   "OrderNo": 251145786,
-   "OrderAlias": 1254,
-   "SellerNo": 34251,
-   "Seller": "AutoZone",
-   "ShipMethod": "UPS Ground",
-   "EstShipDate": "7/6/2019",
-   "Cost": 53,
-   "Items": [ {
-         "ItemImage": "",
-         "LineNo": 1,
-         "Qty": 2,
-         "SellerSku": 2425252,
-         "FulfillerSku": 333333333,
-         "GTIN": 13131311,
-         "Description": "Jumbo Trampoline by Tedesco Products",
-         "Cost": 399,
-         "EstShipDate": "7/22/2019"
-      },
-      {
-         "ItemImage": "",
-         "LineNo": 2,
-         "Qty": 3,
-         "SellerSku": 23453245,
-         "FulfillerSku": 222222222,
-         "GTIN": 222222,
-         "Description": "Coca cola",
-         "Cost": 42,
-         "EstShipDate": "7/23/2019"  } ] }
+      
+ }
  ]
